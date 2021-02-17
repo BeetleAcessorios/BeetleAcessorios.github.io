@@ -38,6 +38,11 @@ body {
 .link {
   display:flex;
   justify-content: center;
+  text-align: center;
+}
+
+.link-a {
+  display:flex;
   align-items: center;
   text-align: center;
   text-decoration: none;
